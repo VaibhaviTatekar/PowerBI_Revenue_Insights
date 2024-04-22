@@ -10,6 +10,6 @@ dim_rooms,
 fact_aggregated_bookings and
 fact_bookings
 
-Project Link: https://www.novypro.com/project/revenue-insights---hospitality-domain-2
+Project Link: https://app.powerbi.com/view?r=eyJrIjoiMjZjMTY0MjktMDEwYi00NGNmLWJiMjEtNzljYzE2MWQ3YjYzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 *This project is completely guided.*
